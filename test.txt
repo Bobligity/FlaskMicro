@@ -1,1 +1,2 @@
-[Measures].[Average of Temperature]
+2018-09-11 22:10:25.681486
+[Measures].[Average of Temperature]2018-09-11 22:10:26.508957
